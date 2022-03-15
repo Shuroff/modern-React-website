@@ -1,3 +1,5 @@
+import { Article, Brand, CTA, Navbar, Feature } from './components'
+
 const App = () => {
   return (
     <div>
